@@ -1,6 +1,6 @@
 *.test
 *.out
-philips-wiz-bulb
+/philips-wiz-bulb
 /dist/
 .vscode/
 .idea/
